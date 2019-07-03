@@ -1,0 +1,1 @@
+GET http://TeachingMaterialManagementLB-738159705.us-east-1.elb.amazonaws.com/teaching_material_management/api/v1.0/list/5d00d2f69da3b780f461aa49

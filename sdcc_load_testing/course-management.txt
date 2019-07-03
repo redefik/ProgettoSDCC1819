@@ -1,0 +1,1 @@
+GET http://CourseManagementLB-115516113.us-east-1.elb.amazonaws.com/course_management/api/v1.0/courses/students/stud

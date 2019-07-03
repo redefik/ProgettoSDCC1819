@@ -1,0 +1,3 @@
+POST http://ApiGatewayLB-607523226.us-east-1.elb.amazonaws.com/didattica-mobile/api/v1.0/token
+Content-Type: application/json
+@user.json

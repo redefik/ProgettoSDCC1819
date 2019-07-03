@@ -1,0 +1,1 @@
+GET http://UserManagementLB-206455583.us-east-1.elb.amazonaws.com/user_management/api/v1.0/users/stud/stud
