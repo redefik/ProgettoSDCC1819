@@ -1,6 +1,8 @@
 # ProgettoSDCC1819
 Indice del progetto realizzato per il corso di Sistemi Distribuiti e Cloud Computing nell'Anno Accademico 2018/2019
 
+![alt text](Architettura.png)
+
 ## Microservizi componenti
 - [User Management](https://github.com/tommasoVilla/User_Management_Microservice)
 - [Course Management](https://github.com/tommasoVilla/Course_Management_Microservice)
